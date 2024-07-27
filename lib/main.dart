@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:weather_app/bloc/cubit/cubit.dart';
+import 'package:weather_app/cubit/cubit.dart';
 import 'package:weather_app/screens/home_screen.dart';
 import 'package:geolocator/geolocator.dart';
 

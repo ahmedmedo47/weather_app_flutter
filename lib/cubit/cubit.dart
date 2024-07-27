@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:weather/weather.dart';
-import 'package:weather_app/bloc/cubit/cubit_states.dart';
+import 'package:weather_app/cubit/cubit_states.dart';
 import 'package:weather_app/data/my_data.dart';
 
 class WeatherCubit extends Cubit<WeatherState> {

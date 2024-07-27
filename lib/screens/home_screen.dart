@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:weather_app/bloc/cubit/cubit.dart';
-import 'package:weather_app/bloc/cubit/cubit_states.dart';
+import 'package:weather_app/cubit/cubit.dart';
+import 'package:weather_app/cubit/cubit_states.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
